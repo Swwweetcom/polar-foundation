@@ -1,0 +1,12 @@
+html {
+  /* Colors */
+  --color-bg: lightgrey;
+  --color-blue: #189ac8;
+  --color-darkgrey: #444444;
+
+  /* Font scale */
+  --fs-xxl: 32px;
+  --fs-xl: 24px;
+  --fs-l: 18px;
+  --fs-m: 16px;
+}

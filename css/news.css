@@ -1,0 +1,16 @@
+.news {
+  background-color: lightsalmon;
+  margin-bottom: 20px;
+  display: flex;
+}
+
+.news-item {
+  min-height: 250px;
+  background-color: lightgreen;
+  width: 33.33%;
+  border: 2px solid hotpink;
+}
+
+.double .news-item {
+  width: 50%;
+}

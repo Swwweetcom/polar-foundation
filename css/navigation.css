@@ -1,0 +1,27 @@
+.navigation {
+  margin-left: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+  font-family: 'Roboto Condensed';
+}
+
+.navigation a {
+  color: black;
+  text-decoration: none;
+  text-transform: uppercase;
+  border-right: 1px solid grey;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-right: 5px;
+}
+
+.navigation a:hover {
+  text-decoration: underline;
+}
+
+.navigation .navigation-last {
+  border-right: 0;
+  padding-right: 0;
+  margin-right: 0;
+}
